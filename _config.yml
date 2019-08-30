@@ -1,7 +1,7 @@
 # Jekyll configuration
 
 name: Aarti
-description: Writings. 
+description: Writings.
 
 # url is currently only used only for the RSS feed in feed.xml
 url: https://grep-aarkash.github.io/musings/
@@ -10,7 +10,7 @@ url: https://grep-aarkash.github.io/musings/
 # be the project name.
 # *** IMPORTANT: If your local "jekyll serve" throws errors change this to '' or
 #     run it like so: jekyll serve --baseurl=''
-baseurl: '/jekyll-xixia'
+baseurl: '/musings'
 ## default date_format
 date_format:
   title: "%B-%-d-%Y"
