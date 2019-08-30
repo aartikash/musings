@@ -2,6 +2,9 @@
 layout: post
 title:  A Montreal Wave
 date:   2019-06-03
+categories: conferences
+tags: cs-can, conference, icse
+author: Aarti
 description: Looking forward to more adventures.
 ---
 These summer vacations, the usual time for first year masters students to be doing some form of internships, I was busy exploring a few different aspects of the academic life. I decided to visit my friend in Montreal during these vacations. My reasons were strictly - ‘to chill’. A little background, in my previous term, I decided to take three seminar-style courses along with TA and my research work. Hence, a break became an absolute necessity. Since, I was anyway going to enjoy Montreal for a while, I decided to match my dates with the ICSE’19 dates.
