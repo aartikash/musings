@@ -2,6 +2,9 @@
 layout: post
 title:  Why do I think CPS is important?
 date:   2019-06-16
+categories: research
+tags: research, cyber-physical systems
+author: Aarti
 description: Cyber Physical Systems an integral part of our society and need more attention.
 ---
 
