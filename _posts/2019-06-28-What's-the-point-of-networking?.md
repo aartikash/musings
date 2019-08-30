@@ -2,6 +2,9 @@
 layout: post
 title:  What's the point of networking?
 date:   2019-06-28
+categories: grad-school
+tags: experience, research-rantings
+author: Aarti
 description: Why do we need to network? I just don't see the point.
 ---
 In the past two months, I have had the opportunity(thanks to travel grants and my supervisor’s LORs) to attend two top conferences - one in Software Engineering (ICSE’19) and another in Programming Languages (PLDI’19). However, this post is not about what you should or should not do in conferences, it’s more about expressing my concern about the concept of “networking”.

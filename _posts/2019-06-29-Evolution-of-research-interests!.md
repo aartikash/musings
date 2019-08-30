@@ -2,6 +2,9 @@
 layout: post
 title:  Why are my research interests evolving at such an exponential phase?
 date:   2019-06-29
+categories: philosophy
+tags: rantings
+author: Aarti
 description: Every day/hour/second my interests are evolving. Is that bad? - it depends.
 ---
 Why are my interests evolving at an exponential phase?

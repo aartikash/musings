@@ -2,8 +2,9 @@
 layout: post
 title:  Why do I not enjoy science fiction?
 date:   2019-07-03
-categories: Jekyll
-tags: Jekyll
+categories: personal
+tags: reading, sci-fi
+author: Aarti
 description: What is there to hate? It's got everything - cool science stuff, cool characters?
 
 ---
