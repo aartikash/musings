@@ -2,9 +2,6 @@
 layout: post
 title:  Programming Languages Blogs
 date:   2019-06-26
-categories: research
-tags: research, programming-languages
-author: Aarti
 description: A List of PL Blogs to keep a track of
 ---
 This post is for my own personal benefit. There are numerous people

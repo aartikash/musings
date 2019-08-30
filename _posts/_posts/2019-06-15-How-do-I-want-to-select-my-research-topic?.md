@@ -1,10 +1,7 @@
 ---
 layout: post
 title:  How do I want to select my research topic?
-date:   2019-06-13
-categories: grad-school
-tags: experience, research-rantings
-author: Aarti
+date:   2019-06-13s
 description: A short story on why research attracts me.
 ---
 

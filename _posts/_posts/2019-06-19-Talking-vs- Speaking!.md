@@ -2,14 +2,9 @@
 layout: post
 title:  Talking vs Speaking
 date:   2019-06-19
-categories: grad-school
-tags: experience, research-rantings
-author: Aarti
 description: Some thoughts of a first year grad student on talking vs speaking.
 ---
 Just some grad school rantings -2
-
-<!--more-->
 
 When you enter the world of being a grad student “trying” to make your mark by doing research you realize it’s a lot of work. You can read all the “how to get a PhD” books, however, your experience is YOUR experience. Don’t expect the books to have all the answers. While pursuing my undergrad from India, the most difficult thing perhaps for me was imagining how do people write such amazing papers (Trust me I was all head over heels over these research papers). However, as my grad studies progressed, for me doing research was not the complicated aspect. Perhaps the most complicated part of this entire process is convincing someone, as to why this is “novel” and why is it required.
 
