@@ -1,10 +1,10 @@
 # Jekyll configuration
 
-name: Xixia
-description: Welcome to Xixia！
+name: Aarti
+description: Writings. 
 
 # url is currently only used only for the RSS feed in feed.xml
-url: https://github.com/zxixia/jekyll-xixia
+url: https://grep-aarkash.github.io/musings/
 
 # baseurl will often be '', but for a project page on gh-pages, it needs to
 # be the project name.
@@ -12,13 +12,13 @@ url: https://github.com/zxixia/jekyll-xixia
 #     run it like so: jekyll serve --baseurl=''
 baseurl: '/jekyll-xixia'
 ## default date_format
-date_format: 
+date_format:
   title: "%B-%-d-%Y"
   archive: "%b"
   categories: "%b-%Y"
   tag: "%b-%Y"
 # Language
-lan: "en" 
+lan: "en"
 
 paginate: 10
 
