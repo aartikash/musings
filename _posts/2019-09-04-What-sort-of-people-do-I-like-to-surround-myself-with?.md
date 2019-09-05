@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  What sort of people do I like to surround myself with?
-date:   2019-09-03
+date:   2019-09-05
 categories: Life
 tags: experience, life-rantings
 author: Aarti
