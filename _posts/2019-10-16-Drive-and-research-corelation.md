@@ -2,7 +2,7 @@
 layout: post
 title:  Drive and research - Strong correlation
 date:   2019-10-16
-categories: Life, Research, Grad-life
+categories: Research
 tags: experience, life-rantings, research
 author: Aarti
 description: Just another observation
