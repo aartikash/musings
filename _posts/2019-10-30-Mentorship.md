@@ -2,7 +2,7 @@
 layout: post
 title: Choosing a mentor
 date:   2019-10-30
-categories: Research, Grad-life
+categories: Research
 tags: experience, research
 author: Aarti
 description: Thoughts on mentorship
