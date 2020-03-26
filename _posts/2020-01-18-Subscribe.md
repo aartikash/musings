@@ -10,6 +10,4 @@ description:
 ---
 I have added RSS to my blog and now you can subscribe to be updated with my general writings.
 
-I intend to start reviewing one paper/day in the general field of Formal methods, security and systems. I believe that currently we require full stacks which will help us verify general systems.
-
-Thank you. 
+I hope  to write a lot but sadly hope  does not  necessarily imply a reality and that is the reason it's hope. This is the reason I keep making small tweaks so that when the day comes I'll  be ready. 
