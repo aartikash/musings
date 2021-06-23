@@ -1,12 +1,4 @@
----
-layout: post
-title: Why did I give away all my furniture for free?
-date:   2021-04-02
-categories:
-tags: Life, Experience, Deep thoughts, Food
-author: Aarti
-description: I am not saying this because I am an Indian...
----
+
 
 <!--more-->
 
