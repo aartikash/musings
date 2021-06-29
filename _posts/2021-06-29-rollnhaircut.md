@@ -25,7 +25,7 @@ So I finally went for a haircut today which took I think approx 2 hours or
 something because we (the haircut dude and I) started experimenting with my 
 hair. 
 He was bored with giving everyone the same haircut, I was open to trying out 
-any thing that he wanted so we totally went all in. 
+any thing that so we totally went all in. 
 
 This resulted in me having the coolest haircut that one can ever imagine in the 
 history of haircuts. 
