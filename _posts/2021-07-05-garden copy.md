@@ -47,6 +47,9 @@ New ones:
 13. Peace lily
 15. Kadi patta
 
+I find the snake plant super fascinating, the speed 
+with which it is growing is just beautiful. 
+
 
 My initial goal was to setup medicianl garden so I can 
 you know heal humans with my herbs. 
