@@ -5,7 +5,7 @@ date:   2021-07-13
 categories: Life, experience
 tags: 
 author: Aarti
-description: I am not kidding, a lot of humans have personally told me this. 
+description: I am not kidding, a lot (1 and counting) of humans have personally told me this. 
 ---
 
 <!--more-->
