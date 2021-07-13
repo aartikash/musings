@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My garden
+title: My garden (Updated with new plants)
 date:   2021-07-05
 categories:
 tags: Life, 2021, Gardening
@@ -41,6 +41,12 @@ The plants that we have are:
 8. Papaya
 9. Mint
 10. Three more plants who have amazing scents 
+New ones:
+11. Alovera
+12. Snake
+13. Peace lily
+15. Kadi patta
+
 
 My initial goal was to setup medicianl garden so I can 
 you know heal humans with my herbs. 
