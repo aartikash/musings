@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  What sort of people do I like to surround myself with? (Boosting this from 2 years back)
-date:   2021-07-15
+date:   2019-09-05
 categories: Life
 tags: experience, life-rantings
 author: Aarti
@@ -11,7 +11,7 @@ description: I wonder why I didn't ask this question before?
 
 Original publish date: 2019-09-05
 
-This helped me remember why i enjoy research. Thank you old Aarti. 
+This helped me remember why i enjoy research. Thank you old Aarti from current Aarti. 
 
 I feel I should have asked this before. The answer is not too difficult. It was right in front of me, but blinded by the things I wanted to achieve and the things the materialistic world put out in front of me, I never asked this question before.
 
