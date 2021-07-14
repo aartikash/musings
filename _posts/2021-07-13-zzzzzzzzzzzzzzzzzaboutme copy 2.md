@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Happy 
+title: Happy (Update)
 date:   2021-07-14
 categories: Life, experience
 tags: 
@@ -30,7 +30,10 @@ I love me so much. OMG. :')
 
 Who knew a covid vaccine and high fever where I literally could not move was all I needed. 
 
-OK but for real the fever was wierd, even after two tablets it did not go away. 
+OK but for real the fever was wierd, even after two tablets it did not go away.
+
+Update: I am doing great now. This is the best I have been for a while I think. :D
+
 
 
 
