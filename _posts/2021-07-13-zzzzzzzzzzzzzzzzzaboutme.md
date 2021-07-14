@@ -1,15 +1,26 @@
 ---
 layout: post
-title: Update, I have updated my about me. 
-date:   2021-07-13
+title: Happy 
+date:   2021-07-14
 categories: Life, experience
 tags: 
 author: Aarti
-description: It is a great description about me. 
+description: weee
 ---
 
 <!--more-->
-Thanks. 
+For some reason, this is the happiest I have been since the 
+past three years. 
+
+OK, I think Jan'20- Early May'20 also I was very happy. 
+
+I am back into learning everything in moderation mode again. 
+
+I am back, FINALLY!
+
+I have missed this version of me so much. 
+
+Who knew a covid vaccine and high fever was all I needed. 
 
 
 
