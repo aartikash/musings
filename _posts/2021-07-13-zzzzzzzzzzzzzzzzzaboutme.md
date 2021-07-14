@@ -12,7 +12,8 @@ description: weee
 For some reason, this is the happiest I have been since the 
 past three years. 
 
-OK, I think Jan'20- Early May'20 also I was very happy. 
+OK, I think Jan'20- Early May'20 also I was very happy
+with some crappy things in the middle but mostly i was happy. 
 
 I am back into learning everything in moderation mode again. 
 
