@@ -24,7 +24,7 @@ I am back, FINALLY!
 
 I have missed this version of me so much. 
 
-Who knew a covid vaccine and high fever was all I needed. 
+Who knew a covid vaccine and high fever where I literally could not move was all I needed. 
 
 
 
