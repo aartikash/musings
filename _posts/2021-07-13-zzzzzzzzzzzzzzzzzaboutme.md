@@ -27,6 +27,7 @@ This is my most fav version of me.
 
 Who knew a covid vaccine and high fever where I literally could not move was all I needed. 
 
+OK but for real the fever was wierd, even after two tablets it did not go away. 
 
 
 
